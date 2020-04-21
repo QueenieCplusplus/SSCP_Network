@@ -106,8 +106,6 @@ even SNMP is upgraded to version 2, its vulnerability still remains, which is th
 
 # Layer 4 (Transmission)
 
-skip see https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-design-associate-網路架構師專業
-
 * TCP
 
 * UDP
@@ -115,6 +113,8 @@ skip see https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-de
 # Layer 3 (Logical)
 
 see see https://github.com/QueenieCplusplus/QuickGoThru#網路拓樸技術
+
+skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-design-associate-網路架構師專業 
 
 * ICMP
 
