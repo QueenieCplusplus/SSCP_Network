@@ -41,7 +41,9 @@ OSI Model in 1994
               
 # Layer 7 (APP)
 
-skipped
+* SNMP, Simple Network Mgmt Protocol
+
+it involves a server (called as Manager) and a client which is a software install in network devices such as router/sw called agent.
               
 # Layer 6, Presentation Layer, 表現層
 
