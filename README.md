@@ -195,5 +195,9 @@ skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-c
   
 * Analog Communication
 
+  Analog signals use electronic properties (frequency & amplitude) to present information, for instance:
+  
+   Human Speaks ---> Voices ---> Acoustical Energy ----> Electrical Equivalent
+
 * Digital Communication
 
