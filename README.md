@@ -47,6 +47,8 @@ it involves a server (called as Manager) and a client which is a software instal
 
 it allows manger to get values of variables which is set from agent. The varaibles includes Routing Table and performance info.
 
+even SNMP is upgraded to version 2, its vulnerability still remains, which is that its password is easy to be sniffed in the commands process then being faked one by Middleman.
+
 # Layer 6, Presentation Layer, 表現層
 
 * Remote Access Services, 遠端連線
