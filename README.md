@@ -59,7 +59,7 @@ skipped
 
   (6) Vendor Backdoors
 
- (7) Vulnerabilities in OS or Firmware
+  (7) Vulnerabilities in OS or Firmware
 
 # Layer 5, Session Layer, 會議層
 
