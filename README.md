@@ -41,7 +41,7 @@ OSI Model in 1994
               
 # Presentation Layer, 表現層
 
-* Remote Access Services (遠端連線)
+* Remote Access Services, 遠端連線
 
   (1) VPN, Virtual Private Network
 
@@ -59,7 +59,7 @@ OSI Model in 1994
 
 # Session Layer, 會議層
 
-* Tunneling (隧道)
+* Tunneling, 隧道
 
   using PPP in Layer5 is as same as PPP used in Layer 2.
 
