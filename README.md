@@ -39,7 +39,11 @@ OSI Model in 1994
                
               -----------------
               
-# Presentation Layer, 表現層
+# Layer 7
+
+skipped
+              
+# Layer 6, Presentation Layer, 表現層
 
 * Remote Access Services, 遠端連線
 
@@ -57,7 +61,7 @@ OSI Model in 1994
 
  (7) Vulnerabilities in OS or Firmware
 
-# Session Layer, 會議層
+# Layer 5, Session Layer, 會議層
 
 * Tunneling, 隧道
 
