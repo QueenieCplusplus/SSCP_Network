@@ -71,6 +71,8 @@ OSI Model in 1994
 
 # Layer 4
 
+skip see https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-design-associate-網路架構師專業
+
 # Layer 3
 
 * RADIUS, auth prototcol used in Layer 3 (single sign-on)
