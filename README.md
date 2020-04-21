@@ -99,12 +99,12 @@ see see https://github.com/QueenieCplusplus/QuickGoThru#網路拓樸技術
   
   (3) only transmit field using Encrpto.
   
-# Link Layer
+# Layer 2, Link Layer, 鏈結層
 
 skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-design-associate-網路架構師專業 
 
 
-# Phisical Layer
+# Layer 1, Phisical Layer, 物理層
 
 * Endpoint (Host) Security
 
