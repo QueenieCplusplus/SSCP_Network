@@ -68,4 +68,12 @@ using PPP in Layer5 is as same as PPP used in Layer 2.
 # Layer 3
 
 * RADIUS, auth prototcol used in Layer 3 (single sign-on)
+  
+  it has some flaws such as:
+  
+  (1) can be attacked by Replay Attack.
+  
+  (2) has no Integrity Protection.
+  
+  (3) only transmit field using Encrpto.
 
