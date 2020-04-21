@@ -63,3 +63,9 @@ Plz note that RPC doesn't provide any service on its own, it only provides basic
 
 using PPP in Layer5 is as same as PPP used in Layer 2.
 
+# Layer 4
+
+# Layer 3
+
+* RADIUS, auth prototcol used in Layer 3 (single sign-on)
+
