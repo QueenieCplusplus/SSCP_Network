@@ -94,7 +94,6 @@ using PPP in Layer5 is as same as PPP used in Layer 2.
   
   (5) maitain ops
   
-  (5)
 * Analog Communication
 
 * Digital Communication
