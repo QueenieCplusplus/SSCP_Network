@@ -193,11 +193,17 @@ skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-c
   
   (5) maitain ops
   
-* Analog Communication
+* Analog Communication using Waveforms
 
-  Analog signals use electronic properties (frequency & amplitude) to present information, for instance:
+  Analog signals use electronic properties (frequency:High pitch/Low pitch & amplitude:Greater Louder/Lesser) to present information, for instance:
   
    Human Speaks ---> Voices ---> Acoustical Energy ----> Electrical Equivalent
 
-* Digital Communication
+* Digital Communication using Electronic States
+
+  Digital signals use electronic properties (on/off) to present information:
+  
+  
+
+  
 
