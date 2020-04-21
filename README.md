@@ -38,6 +38,15 @@ OSI Model in 1994
                
                
               -----------------
+# Remote Access Services
+
+* TELNET, Terminal Emulation Protocol
+
+* rLogin, rsh, rcp
+
+* Screen Scraper
+
+* Virtual Desktop & Virtual Apps
 
 # RPC, Remote Procedure Call
 
