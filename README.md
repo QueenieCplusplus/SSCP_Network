@@ -81,7 +81,7 @@ even SNMP is upgraded to version 2, its vulnerability still remains, which is th
      
      rsh, remote ssh grant direct remote cmd execution within copies data of rcp to and fro the remote machine. 
      
-     if a rlogin daemon (called as rlogind) is running on a machine, rlogin access can be granted in 2 mechanisms:
+     if a rlogin daemon (called as rlogind) is running on a machine, rlogin access can be granted in 2 mechanisms, rlogin transmits data is without encryption and may easily being eavesdropped & intercepted :
      
      1. use of central config file (By Sys Admin)
      
@@ -92,6 +92,9 @@ even SNMP is upgraded to version 2, its vulnerability still remains, which is th
      1. use of central config file (By Sys Admin)
      
      2. user config
+     
+   Auth can be considered to host/IP-based addr. Not the IDs actually! However, once the ID a remote client claims to possess is taken for granted due to a trust host that the request sending from.
+   
 
   (4) Screen Scraper
 
