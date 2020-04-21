@@ -54,6 +54,10 @@ skipped
      1. point-to-point connection
      
      2. gw-to-gw connection between sites or business partener
+     
+        in this way, the GRE, generic routing encapsultation is implemented over tunnel between endpoint(GWs).
+        
+        However there are still a risk remained, which is auth way that the encrpt key is derived from users password, it is easier to be attacked. So it is better to use TFA, two factors authentication instead of password-based VPN.
 
   (2) TELNET, Terminal Emulation Protocol
 
