@@ -55,19 +55,19 @@ OSI Model in 1994
 
   (6) Vendor Backdoors
 
-(7) Vulnerabilities in OS or Firmware
+ (7) Vulnerabilities in OS or Firmware
 
 # Session Layer, 會議層
 
 * Tunneling (隧道)
 
-using PPP in Layer5 is as same as PPP used in Layer 2.
+  using PPP in Layer5 is as same as PPP used in Layer 2.
 
 * RPC, Remote Procedure Call, 遠程呼叫
 
-It allows executing obj accross hosts, with a client sending instruction to an app resided on different host in network, there are some services in this category, such as: Distributed Computing Env.
+  It allows executing obj accross hosts, with a client sending instruction to an app resided on different host in network, there are some services in this category, such as: Distributed Computing Env.
 
-Plz note that RPC doesn't provide any service on its own, it only provides basic auth and address the target service. So it can be considered as a Broker.
+  Plz note that RPC doesn't provide any service on its own, it only provides basic auth and address the target service. So it can be considered as a Broker.
 
 # Layer 4
 
