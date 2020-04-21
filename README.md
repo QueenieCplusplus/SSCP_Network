@@ -8,7 +8,7 @@ DoD Model
               -----------------
                 Network Layer  (IP)
               -----------------
-                 Link  Layer   (MAC)
+                 Link  Layer   (MAC, subnet)
 
 OSI Model in 1994
 
@@ -31,5 +31,12 @@ OSI Model in 1994
                 Network Layer
               -----------------
                  Link  Layer
+              -----------------
+              
+              
+               Physical Layer (Network Media)
+               
+               
+              -----------------
 
     
