@@ -71,7 +71,9 @@ even SNMP is upgraded to version 2, its vulnerability still remains, which is th
   
      it is without protection from encrpto, so it is recommend used with rLogin via SSH. see below! 
      
-     Telnet is a command line protocol to give cmd access to another host, this is present in many UNIX OS, which combines with NFS and NIS.  
+     Telnet is a command line protocol to give cmd access to another host, this is present in many UNIX OS, which combines with NFS and NIS. 
+     
+     Actually a Telnet server is a equipment for any UNIX server.
 
   (3) rLogin, rsh, rcp
 
