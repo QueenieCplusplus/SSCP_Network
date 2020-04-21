@@ -40,17 +40,18 @@ OSI Model in 1994
               -----------------
               
 # Presentation Layer, 表現層
-# Remote Access Services (遠端連線)
 
-* VPN, Virtual Private Network
+* Remote Access Services (遠端連線)
 
-* TELNET, Terminal Emulation Protocol
+(1) VPN, Virtual Private Network
 
-* rLogin, rsh, rcp
+(2) TELNET, Terminal Emulation Protocol
 
-* Screen Scraper
+(3) rLogin, rsh, rcp
 
-* Virtual Desktop & Virtual Apps
+(4) Screen Scraper
+
+(5) Virtual Desktop & Virtual Apps
 
 # Session Layer, 會議層
 
