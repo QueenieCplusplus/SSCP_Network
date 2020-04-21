@@ -43,17 +43,17 @@ OSI Model in 1994
 
 * Remote Access Services (遠端連線)
 
-(1) VPN, Virtual Private Network
+  (1) VPN, Virtual Private Network
 
-(2) TELNET, Terminal Emulation Protocol
+  (2) TELNET, Terminal Emulation Protocol
 
-(3) rLogin, rsh, rcp
+  (3) rLogin, rsh, rcp
 
-(4) Screen Scraper
+  (4) Screen Scraper
 
-(5) Virtual Desktop & Virtual Apps
+  (5) Virtual Desktop & Virtual Apps
 
-(6) Vendor Backdoors
+  (6) Vendor Backdoors
 
 (7) Vulnerabilities in OS or Firmware
 
