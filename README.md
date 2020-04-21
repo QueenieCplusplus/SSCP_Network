@@ -95,7 +95,8 @@ even SNMP is upgraded to version 2, its vulnerability still remains, which is th
      
    Auth can be considered to host/IP-based addr. Not the IDs actually! However, once the ID a remote client claims to possess is taken for granted due to a trust host that the request sending from.
    
-
+   SSH is benefitial to its own drawback: remote access without password. It shall only be used in trusted network.
+   
   (4) Screen Scraper
 
   (5) Virtual Desktop & Virtual Apps
