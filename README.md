@@ -53,6 +53,10 @@ OSI Model in 1994
 
 (5) Virtual Desktop & Virtual Apps
 
+(6) Vendor Backdoors
+
+(7) Vulnerabilities in OS or Firmware
+
 # Session Layer, 會議層
 
 * Tunneling (隧道)
