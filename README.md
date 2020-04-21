@@ -39,7 +39,7 @@ OSI Model in 1994
                
               -----------------
               
-# Layer 7
+# Layer 7 (APP)
 
 skipped
               
@@ -73,7 +73,7 @@ skipped
 
   Plz note that RPC doesn't provide any service on its own, it only provides basic auth and address the target service. So it can be considered as a Broker.
 
-# Layer 4
+# Layer 4 (Transmission)
 
 skip see https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-design-associate-網路架構師專業
 
@@ -81,7 +81,7 @@ skip see https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-de
 
 * UDP
 
-# Layer 3
+# Layer 3 (Logical)
 
 see see https://github.com/QueenieCplusplus/QuickGoThru#網路拓樸技術
 
