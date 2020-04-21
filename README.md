@@ -76,4 +76,26 @@ using PPP in Layer5 is as same as PPP used in Layer 2.
   (2) has no Integrity Protection.
   
   (3) only transmit field using Encrpto.
+  
+# Link Layer
+
+
+# Phisical Layer
+
+* Endpoint (Host) Security
+
+  (1) user may use limited access accounts in accordance with concept of "Least Previlege".
+
+  (2) update anti-virus aand anti-malware software.
+  
+  (3) host-based firewall.
+  
+  (4) cnfg with unneeded services disabled
+  
+  (5) maitain ops
+  
+  (5)
+* Analog Communication
+
+* Digital Communication
 
