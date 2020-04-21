@@ -6,7 +6,7 @@ DoD Model
               -----------------
                Transport Layer (End-to-End, TCP/UDP, Stream, Seq Packets, Datagram, Channel, AppleTalk)
               -----------------
-                Network Layer  (IP, ICMP, IGMP)
+                Network Layer  (IP, ICMP, IGMP: Ping Scanning/Traceroute Exploitation, Packet Exchange, Data Delivery, Shortest Path Bridge, Carries Subnet Mask, Spec Next Hop Addr)
               -----------------
                  Link  Layer   (MAC, subnet)
 
@@ -39,4 +39,6 @@ OSI Model in 1994
                
               -----------------
 
-    
+# RPC, Remote Procedure Call
+
+
