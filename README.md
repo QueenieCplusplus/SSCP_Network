@@ -16,7 +16,7 @@ OSI Model in 1994
               -----------------
               
               
-              Presentation Layer (Data to Apps: Data Conversion, Compression, Encrpto, code, services, Remote DB Access, Remote Ops, Reliable Transfer, Distributed Transaction)
+              Presentation Layer (Data to Apps: Data Conversion, Compression, Encrpto, code, services, Remote DB Access, RPC?, Remote Ops, Reliable Transfer, Distributed Transaction)
               
               
               -----------------
@@ -41,4 +41,6 @@ OSI Model in 1994
 
 # RPC, Remote Procedure Call
 
+It allows executing obj accross hosts, with a client sending instruction to an app resided on different host in network, there are some services in this category, such as: Distributed Computing Env.
 
+Plz note that RPC doesn't provide any service on its own, it only provides basic auth and address the target service. So it can be considered as a Broker.
