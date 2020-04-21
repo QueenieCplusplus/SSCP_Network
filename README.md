@@ -43,6 +43,8 @@ OSI Model in 1994
 
 * SNMP, Simple Network Mgmt Protocol
 
+https://github.com/QueenieCplusplus/SNMP
+
 it involves a server (called as Manager) and a client which is a software install in network devices such as router/sw called agent.
 
 it allows manger to get values of variables which is set from agent. The varaibles includes Routing Table and performance info.
