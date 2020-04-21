@@ -71,6 +71,8 @@ skipped
   
   P2P apps are often designed to open a (uncontrolled) channel thru internet. However it indeed exist some vulnerabilty inside this P2P way due to its overlapped master & slave nodes:
   
+  if one node are detected and shut down, the Bot still can make one of the slave nodes as master and use the redundant staging point to do unimpeded Bot ops.
+  
   (1) Botnet 
   
   (2) Spyware app
