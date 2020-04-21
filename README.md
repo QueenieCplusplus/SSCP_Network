@@ -44,7 +44,9 @@ OSI Model in 1994
 * SNMP, Simple Network Mgmt Protocol
 
 it involves a server (called as Manager) and a client which is a software install in network devices such as router/sw called agent.
-              
+
+it allows manger to get values of variables which is set from agent.
+
 # Layer 6, Presentation Layer, 表現層
 
 * Remote Access Services, 遠端連線
