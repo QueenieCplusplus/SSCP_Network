@@ -38,7 +38,9 @@ OSI Model in 1994
                
                
               -----------------
-# Remote Access Services
+              
+# Presentation Layer, 表現層
+# Remote Access Services (遠端連線)
 
 * VPN, Virtual Private Network
 
@@ -55,3 +57,9 @@ OSI Model in 1994
 It allows executing obj accross hosts, with a client sending instruction to an app resided on different host in network, there are some services in this category, such as: Distributed Computing Env.
 
 Plz note that RPC doesn't provide any service on its own, it only provides basic auth and address the target service. So it can be considered as a Broker.
+
+# Session Layer, 會議層
+# Tunneling (隧道)
+
+using PPP in Layer5 is as same as PPP used in Layer 2.
+
