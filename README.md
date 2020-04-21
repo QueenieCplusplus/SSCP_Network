@@ -66,6 +66,16 @@ skipped
 * Tunneling, 隧道
 
   using PPP in Layer5 is as same as PPP used in Layer 2.
+  
+  *** PPP, P2P protocol
+  
+  P2P apps are often designed to open a (uncontrolled) channel thru internet. However it indeed exist some vulnerabilty inside this P2P way due to its overlapped master & slave nodes:
+  
+  (1) Botnet 
+  
+  (2) Spyware app
+  
+  (3) Virus got entrypoint
 
 * RPC, Remote Procedure Call, 遠程呼叫
 
