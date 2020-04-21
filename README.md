@@ -85,6 +85,8 @@ OSI Model in 1994
   
 # Link Layer
 
+skip seee https://github.com/QueenieCplusplus/QuickGoThru#網路拓樸技術
+
 
 # Phisical Layer
 
