@@ -10,7 +10,7 @@ DoD Model
               -----------------
                  Link  Layer   (MAC)
 
-OSI Model
+OSI Model in 1994
 
               Application Layer
               -----------------
