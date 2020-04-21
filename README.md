@@ -48,6 +48,12 @@ skipped
 * Remote Access Services, 遠端連線
 
   (1) VPN, Virtual Private Network
+  
+     a vpn is a tunnel within encrpto between 2 hosts allowing them to do secret connection in untrusted internet. There are 2 way to do this implementation:
+     
+     1. point-to-point connection
+     
+     2. gw-to-gw connection between sites or business partener
 
   (2) TELNET, Terminal Emulation Protocol
 
