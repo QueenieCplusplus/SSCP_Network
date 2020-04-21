@@ -80,6 +80,18 @@ even SNMP is upgraded to version 2, its vulnerability still remains, which is th
      rlogin usually performed in Unix Server, it is a protocol used for granting remote access to a machine.
      
      rsh, remote ssh grant direct remote cmd execution within copies data of rcp to and fro the remote machine. 
+     
+     if a rlogin daemon (called as rlogind) is running on a machine, rlogin access can be granted in 2 mechanisms:
+     
+     1. use of central config file (By Sys Admin)
+     
+     2. user config
+     
+   as mentioned above, the access mechanism applies to both of the rsh and rcp too:
+     
+     1. use of central config file (By Sys Admin)
+     
+     2. user config
 
   (4) Screen Scraper
 
