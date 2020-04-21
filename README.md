@@ -76,6 +76,10 @@ even SNMP is upgraded to version 2, its vulnerability still remains, which is th
      Actually a Telnet server is a equipment for any UNIX server.
 
   (3) rLogin, rsh, rcp
+  
+     rlogin usually performed in Unix Server, it is a protocol used for granting remote access to a machine.
+     
+     rsh, remote ssh grant direct remote cmd execution within copies data of rcp to and fro the remote machine. 
 
   (4) Screen Scraper
 
