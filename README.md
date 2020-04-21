@@ -59,7 +59,7 @@ OSI Model in 1994
 
 using PPP in Layer5 is as same as PPP used in Layer 2.
 
-* RPC, Remote Procedure Call
+* RPC, Remote Procedure Call, 遠程呼叫
 
 It allows executing obj accross hosts, with a client sending instruction to an app resided on different host in network, there are some services in this category, such as: Distributed Computing Env.
 
