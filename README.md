@@ -66,6 +66,7 @@ https://github.com/QueenieCplusplus/SNMP
         in this way, the GRE, generic routing encapsultation is implemented over tunnel between endpoint(GWs).
         
         However there are still a risk remained, which is auth way that the encrpt key is derived from users password, it is easier to be attacked. So it is better to use TFA, two factors authentication instead of password-based VPN.
+       
 
   (2) TELNET, Terminal Emulation Protocol
   
@@ -74,6 +75,7 @@ https://github.com/QueenieCplusplus/SNMP
      Telnet is a command line protocol to give cmd access to another host, this is present in many UNIX OS, which combines with NFS and NIS. 
      
      Actually a Telnet server is a equipment for any UNIX server.
+     
 
   (3) rLogin, rsh, rcp
   
@@ -97,14 +99,19 @@ https://github.com/QueenieCplusplus/SNMP
    
    SSH is benefitial to its own drawback: remote access without password. It shall only be used in trusted network.
    
+   
   (4) Screen Scraper
   
      a screen scraper is a program that can extract data on a display, this tech can be used in a nefarious way, such as image capture from users computer.
 
+
   (5) Virtual Desktop & Virtual Apps
   
-      (to be continued...)
+     Virtual Network Terminal Services:
+     
+     virtual network terminal service us a tool frequently used for remote access to server resources, it allows desktop env to exported to a remote workstation for a server. Vice versa, It allows users to execute desktop cmd at the remote workstation as though they were sitting at the server terminal interface.
 
+     
   (6) Vendor Backdoors
   
       (to be continued...)
