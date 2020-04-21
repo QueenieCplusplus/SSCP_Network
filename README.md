@@ -49,7 +49,7 @@ it involves a server (called as Manager) and a client which is a software instal
 
 it allows manger to get values of variables which is set from agent. The varaibles includes Routing Table and performance info.
 
-even SNMP is upgraded to version 2, its vulnerability still remains, which is that its password is easy to be sniffed in the commands process then being faked one by Middleman, when server identifies itself against an agent (community string is sent to agent) and password is sent in commend. 
+even SNMP is upgraded to version 2, its vulnerability still remains, which is that its password is easy to be sniffed (transmission in plaintext) in the commands process then being faked one by Middleman, when server identifies itself against an agent (community string is sent to agent) and password is sent in commend. 
 
 # Layer 6, Presentation Layer, 表現層
 
@@ -68,6 +68,8 @@ even SNMP is upgraded to version 2, its vulnerability still remains, which is th
         However there are still a risk remained, which is auth way that the encrpt key is derived from users password, it is easier to be attacked. So it is better to use TFA, two factors authentication instead of password-based VPN.
 
   (2) TELNET, Terminal Emulation Protocol
+  
+     it is without protection from encrpto, so it is recommend used with rLogin via SSH. see below! 
 
   (3) rLogin, rsh, rcp
 
