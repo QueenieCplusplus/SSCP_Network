@@ -110,7 +110,10 @@ https://github.com/QueenieCplusplus/SNMP
      Virtual Network Terminal Services:
      
      virtual network terminal service us a tool frequently used for remote access to server resources, it allows desktop env to exported to a remote workstation for a server. Vice versa, It allows users to execute desktop cmd at the remote workstation as though they were sitting at the server terminal interface.
-
+     
+     such service may provided by VNC. this is an alternative to the SSH/ Telnet.
+     It is recommend to be used due to Auth to user and server. (Log & Audit)
+     
      
   (6) Vendor Backdoors
   
