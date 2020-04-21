@@ -77,7 +77,17 @@ skipped
 
 skip see https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-design-associate-網路架構師專業
 
+* TCP
+
+* UDP
+
 # Layer 3
+
+see see https://github.com/QueenieCplusplus/QuickGoThru#網路拓樸技術
+
+* ICMP
+
+* IGMP
 
 * RADIUS, auth prototcol used in Layer 3 (single sign-on)
   
@@ -91,7 +101,7 @@ skip see https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-de
   
 # Link Layer
 
-skip seee https://github.com/QueenieCplusplus/QuickGoThru#網路拓樸技術
+skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-design-associate-網路架構師專業 
 
 
 # Phisical Layer
