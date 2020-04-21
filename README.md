@@ -98,12 +98,20 @@ https://github.com/QueenieCplusplus/SNMP
    SSH is benefitial to its own drawback: remote access without password. It shall only be used in trusted network.
    
   (4) Screen Scraper
+  
+      (to be continued...)
 
   (5) Virtual Desktop & Virtual Apps
+  
+      (to be continued...)
 
   (6) Vendor Backdoors
+  
+      (to be continued...)
 
   (7) Vulnerabilities in OS or Firmware
+  
+      (to be continued...)
 
 # Layer 5, Session Layer, 會議層
 
