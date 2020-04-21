@@ -40,6 +40,8 @@ OSI Model in 1994
               -----------------
 # Remote Access Services
 
+* VPN, Virtual Private Network
+
 * TELNET, Terminal Emulation Protocol
 
 * rLogin, rsh, rcp
