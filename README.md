@@ -193,6 +193,8 @@ skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-c
   
   (5) maitain ops
   
+Below 2 data communication shows analog is worse than digital when going to promise the data integrity.
+  
 * Analog Communication using Waveforms thru twisted pair or wireless
 
   Analog signals use electronic properties (frequency:High pitch/Low pitch & amplitude:Greater Louder/Lesser) to present information, for instance:
