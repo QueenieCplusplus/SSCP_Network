@@ -65,7 +65,7 @@ skipped
 
 * Tunneling, 隧道
 
-  using PPP in Layer5 is as same as PPP used in Layer 2.
+  using PPP in Layer 5 is as same as PPP used in Layer 2.
   
   *** PPP, P2P protocol
   
