@@ -16,7 +16,7 @@ OSI Model in 1994
               -----------------
               
               
-              Presentation Layer (Data to Apps: Data Conversion, Compression, Encrpto, code, services)
+              Presentation Layer (Data to Apps: Data Conversion, Compression, Encrpto, code, services, Remote DB Access, Remote Ops, Reliable Transfer, Distributed Transaction)
               
               
               -----------------
