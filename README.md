@@ -2,7 +2,7 @@
 
 DoD Model
 
-              Application Layer (App Program: DHCP, DNS, HTTP, LDAP, SMTP, FTP)
+              Application Layer (App Program: SNMP, DHCP, DNS, HTTP, LDAP, SMTP, FTP)
               -----------------
                Transport Layer (End-to-End, TCP/UDP, Stream, Seq Packets, Datagram, Channel, AppleTalk)
               -----------------
