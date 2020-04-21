@@ -205,6 +205,8 @@ skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-c
   
   1 is assigned to on state ; 0 is assigned to off state.
   
+  010010000000100001000000001111110101000000000101 (a series of the two states of electronics)
+  
   
   
   
