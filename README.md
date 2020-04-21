@@ -164,7 +164,7 @@ skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-c
   
   (3) only transmit field using Encrpto.
   
-# Layer 2 （Link） 
+# Layer 2（Link） 
 
 skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-design-associate-網路架構師專業 
 
