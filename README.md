@@ -92,14 +92,14 @@ https://github.com/QueenieCplusplus/SNMP
      1. use of central config file (By Sys Admin)
      
      2. user config
-     
+    
    Auth can be considered to host/IP-based addr. Not the IDs actually! However, once the ID a remote client claims to possess is taken for granted due to a trust host that the request sending from.
    
    SSH is benefitial to its own drawback: remote access without password. It shall only be used in trusted network.
    
   (4) Screen Scraper
   
-      (to be continued...)
+     a screen scraper is a program that can extract data on a display, this tech can be used in a nefarious way, such as image capture from users computer.
 
   (5) Virtual Desktop & Virtual Apps
   
