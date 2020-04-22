@@ -178,6 +178,8 @@ skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-c
 
 skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-design-associate-網路架構師專業 
 
+* Vlan 
+
 
 # Layer 1, Phisical Layer, 物理層
 
