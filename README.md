@@ -208,13 +208,13 @@ a vlan is a set of workstations within a LAN that can communicate with each othe
 
 There are 2 Types of Vlan.
 
-* port-based Vlan criteria (criterion)
+* port-based Vlan criteria (criterion) p522
 
 Ports of SW is assigned to Vlan, which is defined for Vlan membership, which is devices connected to a given port. 
 
 Then the SW is automatically divided into sub-SW.
 
-* protocol-based Vlan
+* protocol-based Vlan p524
 
       to be continued...
 
