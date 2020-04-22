@@ -202,6 +202,8 @@ advantage of using Vlan
 
 3. Flexibility
 
+   workers can move their physical place to anywhere, without bothering the Vlan.
+
 4. Workgroup
 
 # Layer 1, Phisical Layer, 物理層
