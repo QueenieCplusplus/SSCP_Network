@@ -145,7 +145,7 @@ https://github.com/QueenieCplusplus/SNMP
      
   (6) Vendor Backdoors
   
-      (to be continued...)
+    https://github.com/QueenieCplusplus/SSCP_System#attack-in-sys-level
 
   (7) Vulnerabilities in OS or Firmware
   
