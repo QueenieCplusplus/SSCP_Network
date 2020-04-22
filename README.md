@@ -135,6 +135,8 @@ https://github.com/QueenieCplusplus/SNMP
 
   (5) Virtual Desktop & Virtual Apps
   
+  https://github.com/QueenieCplusplus/VM/blob/master/README.md#virtual-desktop
+  
      Virtual Network Terminal Services:
      
      virtual network terminal service us a tool frequently used for remote access to server resources, it allows desktop env to exported to a remote workstation for a server. Vice versa, It allows users to execute desktop cmd at the remote workstation as though they were sitting at the server terminal interface.
