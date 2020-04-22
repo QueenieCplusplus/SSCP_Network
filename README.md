@@ -220,3 +220,6 @@ Below 2 data communication shows analog is worse than digital when going to prom
 7. p.545 --- Scanning (Port/FIN/TCP seq) using tool: Nessus/Nmap
 8. p.550 --- Tool
 9. p.551 --- Attack FW by Overlapping Fragment
+10. p526 --- Data-Link Attack --- MAC Flood
+11. p527 --- Data-Link Attack --- Inter-SW Level Attack
+12. p527 --- 
