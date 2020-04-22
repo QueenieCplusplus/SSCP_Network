@@ -210,6 +210,8 @@ a vlan is a set of workstations within a LAN that can communicate with each othe
 
 Ports of SW is assigned to Vlan, which is defined for Vlan membership, which is devices connected to a given port. 
 
+Then the SW is automatically divided into sub-SW.
+
 # Layer 1, Phisical Layer, 物理層
 
 * Endpoint (Host) Security
