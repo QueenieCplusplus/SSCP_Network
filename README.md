@@ -190,6 +190,20 @@ a vlan is a set of workstations within a LAN that can communicate with each othe
 
 (4) Without involvement of GW, so routing protocol is not needed.
 
+advantage of using Vlan
+
+1. Performance: 
+
+   without Router involved in, the data rate does not matter with performance.
+
+2. Resource Partition: 
+
+  with Vlan limitations, the access control is implemented.
+
+3. Flexibility
+
+4. Workgroup
+
 # Layer 1, Phisical Layer, 物理層
 
 * Endpoint (Host) Security
