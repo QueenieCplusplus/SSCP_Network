@@ -180,6 +180,15 @@ skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-c
 
 * Vlan 
 
+a vlan is a set of workstations within a LAN that can communicate with each other as though they were on a single, isolated LAN:
+
+(1) Broadcast packets sent by one of the workstations will reach all the others only in the LAN.
+
+(2) The workstations can all communicate with each other without requirement to go thru a GW. (it is ARP in this section for IP connection)
+
+(3) GW in this process no funtion such as packet forward or packet drop.
+
+(4) Without involvement of GW, so routing protocol is not needed.
 
 # Layer 1, Phisical Layer, 物理層
 
