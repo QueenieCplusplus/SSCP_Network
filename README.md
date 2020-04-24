@@ -6,7 +6,8 @@ DoD Model
                --------------------------------------------------------------------  
                
 
-               Application Layer 
+               Application Layer
+               
          (App Program: SNMP, DHCP, DNS, HTTP, LDAP, SMTP, FTP)
          
          
@@ -14,6 +15,7 @@ DoD Model
               
               
                 Transport Layer 
+                
         (End-to-End, TCP/UDP, Stream, Seq Packets, Datagram, Channel, AppleTalk)
                 
                
@@ -21,13 +23,15 @@ DoD Model
                
                
                  Network Layer  
+                 
         (IP, ICMP, IGMP: Ping Scanning/Traceroute Exploitation, Packet Exchange, Data Delivery, Shortest Path Bridge, Carries Subnet Mask, Spec Next Hop Addr)
                 
                 
                --------------------------------------------------------------------  
                
                
-                 Link  Layer   
+                 Link  Layer
+                 
                 (MAC, subnet)
                  
                  
@@ -39,23 +43,37 @@ OSI Model in 1994
 
               --------------------------------------------------------------------   
 
-              核心應用, Application Layer
+              核心應用
+              
+              Application Layer
               
               --------------------------------------------------------------------          
               
-              壓縮加密, Presentation Layer (Data to Apps: Data Conversion, Compression, Encrpto, code, services, Remote DB Access, RPC?, Remote Ops, Reliable Transfer, Distributed Transaction)
+              壓縮加密
+              
+              Presentation Layer 
+              
+              (Data to Apps: Data Conversion, Compression, Encrpto, code, services, Remote DB Access, RPC?, Remote Ops, Reliable Transfer, Distributed Transaction)
                         
               --------------------------------------------------------------------              
               
-              驗證與通道建立, Session Layer (Session between App, Session, Short Msg, Tunneling, Sockets, Auth)
+              驗證與通道建立(封包封裝)
+              
+              Session Layer 
+              
+              (Session between App, Session, Short Msg, Tunneling, Sockets, Auth)
                 
               -------------------------------------------------------------------- 
               
-              封包的序列, Transport Layer
+              封包的序列
+              
+              Transport Layer
               
               -------------------------------------------------------------------- 
               
-              封包的傳遞, Network Layer 
+              封包的傳遞
+              
+              Network Layer 
               
               -------------------------------------------------------------------- 
                  
