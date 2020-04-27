@@ -36,6 +36,10 @@ DoD Model
                  
                  
                -------------------------------------------------------------------- 
+      
+          
+                  Physical Layer
+                  (Digital Signal)
 
 
 OSI Model in 1994
