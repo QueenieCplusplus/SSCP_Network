@@ -224,7 +224,7 @@ skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-c
   
   (3) only transmit field using Encrpto.
   
-# Layer 2（Link-State） 
+# Layer 2（Data Link/ Link State） 
 
 skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-design-associate-網路架構師專業 
 
@@ -270,7 +270,7 @@ Then the SW is automatically divided into sub-SW.
 
       to be continued...
 
-# Layer 1, Phisical Layer, 物理層
+# Layer 1, Physical Layer, 物理層
 
 * Endpoint (Host) Security
 
