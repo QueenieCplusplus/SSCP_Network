@@ -309,10 +309,8 @@ Below 2 data communication shows analog is worse than digital when going to prom
 7. p.545 --- Scanning (Port/FIN/TCP seq) using tool: Nessus/Nmap
 8. p.550 --- Tool (tcpdump)
 9. p.551 --- Attack FW by Overlapping Fragment
-10. p526 --- Data-Link Attack --- MAC Flood --- p529 --- MACsec
-11. p527 --- Data-Link Attack --- Inter-SW Level Attack
-12. p527 --- Data-Link Attack --- 802.1Q Vlan Atack
-13. p528 --- Data-Link Attack --- ARP attack
-14. p529 --- Data-Link Attack --- Spanning-Tree Attack
-15. p529 --- Data-Link Attack --- Multicast Brute Force Attack
-16. p529 --- Data-Link Attack --- Random Frame Stress Attack
+
+10. Attacks in Layer 2 https://github.com/QueenieCplusplus/CCNP_DataLink/blob/master/README.md#attack-in-layer-2
+
+
+
