@@ -228,6 +228,8 @@ skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-c
 
 skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-design-associate-網路架構師專業 
 
+https://github.com/QueenieCplusplus/CCNP_DataLink 
+
 * Vlan 
 
 a vlan is a set of workstations within a LAN that can communicate with each other as though they were on a single, isolated LAN:
