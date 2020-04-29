@@ -230,6 +230,10 @@ https://github.com/QueenieCplusplus/ICMP
   
   (3) only transmit field using Encrpto.
   
+* ND
+
+https://github.com/QueenieCplusplus/ND (Neighbor Router Discovering by advertisement)
+  
 # Layer 2（Data Link/ Link State） 
 
 skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-design-associate-網路架構師專業 
@@ -245,8 +249,6 @@ a vlan is a set of workstations within a LAN that can communicate with each othe
 https://github.com/QueenieCplusplus/ARP (Broadcast)
 
 (2) The workstations can all communicate with each other without requirement to go thru a GW. (it is ARP in this section for IP connection)
-
-https://github.com/QueenieCplusplus/ND (Neighbor Router Discovering by advertisement)
 
 (3) GW in this process no funtion such as packet forward or packet drop.
 
