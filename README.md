@@ -242,6 +242,8 @@ a vlan is a set of workstations within a LAN that can communicate with each othe
 
 (1) Broadcast packets sent by one of the workstations will reach all the others only in the LAN.
 
+https://github.com/QueenieCplusplus/ARP (Broadcast)
+
 (2) The workstations can all communicate with each other without requirement to go thru a GW. (it is ARP in this section for IP connection)
 
 (3) GW in this process no funtion such as packet forward or packet drop.
