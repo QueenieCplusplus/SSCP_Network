@@ -246,6 +246,8 @@ https://github.com/QueenieCplusplus/ARP (Broadcast)
 
 (2) The workstations can all communicate with each other without requirement to go thru a GW. (it is ARP in this section for IP connection)
 
+https://github.com/QueenieCplusplus/ND (Neighbor Router Discovering by advertisement)
+
 (3) GW in this process no funtion such as packet forward or packet drop.
 
 (4) Without involvement of GW, so routing protocol is not needed.
