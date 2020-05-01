@@ -204,6 +204,8 @@ SSL https://github.com/QueenieCplusplus/ITsec_TLS
 
 # Layer 4 (Transmission)
 
+* SSL, tunneling in Layer 4
+
 * TCP
 
 * UDP
@@ -213,6 +215,8 @@ SSL https://github.com/QueenieCplusplus/ITsec_TLS
 see see https://github.com/QueenieCplusplus/QuickGoThru#網路拓樸技術
 
 skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-design-associate-網路架構師專業 
+
+* TUN, tunneling in Layer 3
 
 * ICMP
 
@@ -239,6 +243,8 @@ https://github.com/QueenieCplusplus/ND (Neighbor Router Discovering by advertise
 skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-design-associate-網路架構師專業 
 
 https://github.com/QueenieCplusplus/CCNP_DataLink 
+
+* TAP, tunneling in Layer 2
 
 * Vlan 
 
