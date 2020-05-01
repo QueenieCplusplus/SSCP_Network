@@ -179,7 +179,7 @@ https://github.com/QueenieCplusplus/SNMP
 
 SSL https://github.com/QueenieCplusplus/ITsec_TLS 
 
-* Tunneling, 隧道
+* PPP , 用點對點技術實作隧道狀態
 
   using PPP in Layer 5 is as same as PPP used in Layer 3.
   https://github.com/QueenieCplusplus/PPP
@@ -204,7 +204,7 @@ SSL https://github.com/QueenieCplusplus/ITsec_TLS
 
 # Layer 4 (Transmission)
 
-* SSL, tunneling in Layer 4
+* SSL, tunneling in Layer 4 用 ssl 技術實作隧道狀態
 
 * TCP
 
@@ -216,7 +216,7 @@ see see https://github.com/QueenieCplusplus/QuickGoThru#網路拓樸技術
 
 skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-cisco-certified-design-associate-網路架構師專業 
 
-* TUN, tunneling in Layer 3
+* TUN, tunneling in Layer 3 用 IPsec 實作隧道狀態
 
 * ICMP
 
@@ -244,7 +244,7 @@ skip see ARP or ICMPv6 in https://github.com/QueenieCplusplus/QuickGoThru#ccda-c
 
 https://github.com/QueenieCplusplus/CCNP_DataLink 
 
-* TAP, tunneling in Layer 2
+* TAP, tunneling in Layer 2 使用 TAP 裝置實作隧道狀態
 
 * Vlan 
 
